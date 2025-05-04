@@ -66,6 +66,9 @@ Podendo deixar apenas um gráfico ou fazer a comparação entre duas lojas.
 
 ![Image](https://github.com/user-attachments/assets/2b6fc46e-924e-4887-ac04-57b4376a71d5)
 
+No Gráfico de calor do desafio extra há a opção de selecionar o estilo de mapa e os pontos de calor de cada loja com base na latitude e longtude de cada venda.
+![Image](https://github.com/user-attachments/assets/ba25e62d-ed87-43f0-bdce-92cfda969482)
+![Image](https://github.com/user-attachments/assets/624ff69a-dd14-4805-ba25-fd0428283f1e)
 ---
 
 * :open_file_folder: Acesso ao Projeto
@@ -73,7 +76,7 @@ Podendo deixar apenas um gráfico ou fazer a comparação entre duas lojas.
 Para rodar localmente:
 
 * Clone o repositório
-git clone https://github.com/seuusuario/challenge-alura-store.git
+git clone git@github.com:Henriquerocha2000/ChallengeAluraStore.git
 
 * Acesse o diretório
 cd challenge-alura-store
