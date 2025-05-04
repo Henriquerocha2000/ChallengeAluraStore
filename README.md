@@ -21,7 +21,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-yellowgreen?style=flat&logo=pandas)
 ![Plotly](https://img.shields.io/badge/Plotly-Graphs-informational?style=flat&logo=plotly)
 ![Folium](https://img.shields.io/badge/Folium-Maps-green?style=flat)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange)
+![Status](https://img.shields.io/badge/status-Desenvolvimento%20Completo-brightgreen)
+
 
 ---
 
@@ -41,7 +42,7 @@ Durante o desafio, são explorados dados como:
 
 * :bar_chart: Status do Projeto
 
-:white_check_mark: Projeto em desenvolvimento  
+:white_check_mark: Projeto concluído  
 :dart: Análises principais concluídas  
 
 ---
@@ -59,7 +60,7 @@ Ao interagir com a legenda é pssível selecionar qual gráfico da loja deixará
 
 ![Image](https://github.com/user-attachments/assets/3d5d0a3c-e8a3-4f18-897f-82ed02761fba)
 
-Podendo deixar apenas um g´rafico ou fazer a comparação entre duas lojas.
+Podendo deixar apenas um gráfico ou fazer a comparação entre duas lojas.
 
 ![Image](https://github.com/user-attachments/assets/3801278d-9d76-4323-957b-0fdc495edb7e)
 
